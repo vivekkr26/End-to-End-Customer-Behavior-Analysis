@@ -176,5 +176,3 @@ Open to Data Analyst / BI Analyst opportunities.
 ---
 
 ⭐ If you found this project interesting, feel free to star the repository!
-
-⭐ If you found this project interesting, feel free to star the repository!
