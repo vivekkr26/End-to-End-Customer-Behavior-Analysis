@@ -75,7 +75,6 @@ End-to-End-Customer-Behavior-Analysis
 ├── Screenshots/
     └── dashboard.png
 
----
 
 ## 🔎 Project Workflow
 
@@ -173,5 +172,7 @@ Aspiring **Data Analyst** passionate about transforming data into strategic busi
 Open to Data Analyst / BI Analyst opportunities.
 
 ---
+
+⭐ If you found this project interesting, feel free to star the repository!
 
 ⭐ If you found this project interesting, feel free to star the repository!
