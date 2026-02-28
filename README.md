@@ -74,7 +74,9 @@ End-to-End-Customer-Behavior-Analysis
 │
 ├── Screenshots/
     └── dashboard.png
+```
 
+---
 
 ## 🔎 Project Workflow
 
