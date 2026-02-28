@@ -114,7 +114,7 @@ Customer targeting strategies
 
 
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard_image.png)
 📈 Key Insights
 
 ✔ Clothing category generates highest revenue
