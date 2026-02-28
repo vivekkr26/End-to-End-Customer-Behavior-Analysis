@@ -110,7 +110,7 @@ End-to-End-Customer-Behavior-Analysis
 
 ## 📊 Dashboard Preview
 
-![Customer Behavior Dashboard](Screenshots/dashboard.png)
+![Customer Behavior Dashboard](customer-shopping-behavior-analysis/Screenshots/dashboard_image.png)
 
 ---
 
